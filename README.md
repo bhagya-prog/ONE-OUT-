@@ -2,34 +2,27 @@
 ONE OUT is a fun and interactive browser-based elimination game built using HTML, CSS, and JavaScript. Whether it's for friends, teams, or party groups, ONE OUT makes decision-making exciting and suspenseful. 
 
 🎯 Features <br> 
-✅ Add as many names/participants as you want 
+- ✅ Add as many names/participants as you want 
 
-🔄 Randomized elimination process 
+- 🔄 Randomized elimination process 
 
-💥 Visually highlights eliminated names 
+- 💥 Visually highlights eliminated names 
 
-🎉 Declares the last one remaining as the WINNER 
+- 🎉 Declares the last one remaining as the WINNER 
 
-🧼 Reset and play again anytime 
+- 🧼 Reset and play again anytime 
 
 🚀 Getting Started <br>
-🔧 Requirements
+🔧 Requirements: <br>
 Just a modern web browser (Chrome, Edge, Firefox, etc.)
 
 🖥️ How to Run <br>
-Clone this repository:
-
-bash <br>
-Copy <br>
-Edit <br>
-git clone https://github.com/bhagya-prog/ONE-OUT-.git <br>
-Navigate to the folder and open index.html in your browser: <br>
-
-bash <br>
-Copy <br>
-Edit <br>
-cd ONE-OUT- <br>
-Double-click index.html or serve it using Live Server.
+- Clone this repository: <br>
+git clone https://github.com/bhagya-prog/ONE-OUT-.git 
+<br><br>
+- Navigate to the folder and open index.html in your browser: <br>
+cd ONE-OUT- <br><br>
+- Double-click index.html or serve it using Live Server.
 
 🛠️ Tech Stack <br>
 1. HTML5 – Structure
