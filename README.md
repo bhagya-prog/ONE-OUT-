@@ -1,7 +1,59 @@
-# ONE-OUT-
-It is a small mini project created in Python. It is a basic one, created just for a thorough understanding of all the concepts learnt. 
+#🧠ONE OUT - The Ultimate Elimination Game <br><br>
+ONE OUT is a fun and interactive browser-based elimination game built using HTML, CSS, and JavaScript. Whether it's for friends, teams, or party groups, ONE OUT makes decision-making exciting and suspenseful. 
 
-In this mini project, first the code will ask the number of players who are playing the game and then the max_score which they need to achieve for winning this game. 
-Each player will get a chance to roll the dice, if they get a 1, there total score = 0, otherwise it keeps adding up... 
+🎯 Features <br> 
+✅ Add as many names/participants as you want 
 
-In this I used concept of while, for loop and also input, output stuff with calling random as well for rolling a dice. 
+🔄 Randomized elimination process 
+
+💥 Visually highlights eliminated names 
+
+🎉 Declares the last one remaining as the WINNER 
+
+🧼 Reset and play again anytime 
+
+🚀 Getting Started <br>
+🔧 Requirements
+Just a modern web browser (Chrome, Edge, Firefox, etc.)
+
+🖥️ How to Run <br>
+Clone this repository:
+
+bash <br>
+Copy <br>
+Edit <br>
+git clone https://github.com/bhagya-prog/ONE-OUT-.git <br>
+Navigate to the folder and open index.html in your browser: <br>
+
+bash <br>
+Copy <br>
+Edit <br>
+cd ONE-OUT- <br>
+Double-click index.html or serve it using Live Server.
+
+🛠️ Tech Stack <br>
+1. HTML5 – Structure
+
+2. CSS3 – Styling
+
+3. JavaScript – Game Logic
+
+
+🧠 Use Case Ideas <br> <br>
+i. Who pays the bill?
+
+ii. Random team selector
+
+iii. Icebreaker game for events
+
+iv. Classroom activity
+
+🙌 Contributing <br>
+Want to add themes, animations, or new modes?
+Feel free to fork the project and submit a PR! All contributions are welcome.
+
+📄 License <br>
+This project is open-source and available under the MIT License.
+
+👤 Author <br> <br>
+Made with ❤️ by Bhagya Vardhan
