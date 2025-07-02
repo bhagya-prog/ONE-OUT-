@@ -17,11 +17,12 @@ ONE OUT is a fun and interactive browser-based elimination game built using HTML
 Just a modern web browser (Chrome, Edge, Firefox, etc.)
 
 🖥️ How to Run <br>
-- Clone this repository: <br>
-git clone https://github.com/bhagya-prog/ONE-OUT-.git 
-<br><br>
-- Navigate to the folder and open index.html in your browser: <br>
-cd ONE-OUT- <br><br>
+- Clone this repository:
+  ```
+  git clone https://github.com/bhagya-prog/ONE-OUT-.git 
+- Navigate to the folder and open index.html in your browser: 
+  ```
+  cd ONE-OUT-
 - Double-click index.html or serve it using Live Server.
 
 ## 🛠️ Tech Stack 
